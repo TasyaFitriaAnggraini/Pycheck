@@ -1,0 +1,15 @@
+func fungsipyCheck() lakukan cetak "Bahasa Pemrograman Baru"
+
+fungsipyCheck()
+
+a = 5
+cetak a
+
+func tambahLima() lakukan a = a + 5
+
+tambahLima()
+cetak a
+
+fungsipyCheck()
+tambahLima()
+cetak a
